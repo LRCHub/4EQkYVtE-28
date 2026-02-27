@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Circles",
+  "base_artist": "Post Malone",
+  "createdAt": "2026-02-27T15:09:34.774680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "Boy Named Banjo",
+      "has_synced": true,
+      "path": "select/01_Circles_Boy_Named_Banjo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/02_Circles_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Circles Around This Town",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/03_Circles_Around_This_Town_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancin' In Circles",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Dancin'_In_Circles_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In Circles",
+      "artist": "Mike Peters",
+      "has_synced": false,
+      "path": "select/05_In_Circles_Mike_Peters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Lives Revolve in Bright Circles of Quiet Light",
+      "artist": "Nick Grey",
+      "has_synced": false,
+      "path": "select/06_All_Lives_Revolve_in_Bright_Circles_of_Quiet_Light_Nick_Grey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/07_Circles_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turning Circles",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/08_Turning_Circles_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "Double",
+      "has_synced": true,
+      "path": "select/09_Circles_Double.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Circles in the Sky",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/10_Circles_in_the_Sky_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "Apparat",
+      "has_synced": false,
+      "path": "select/11_Circles_Apparat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circles (With 16 Bit Lolitas)",
+      "artist": "Emma Hewitt",
+      "has_synced": true,
+      "path": "select/12_Circles_(With_16_Bit_Lolitas)_Emma_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Circles",
+      "artist": "Emma Hewitt with 16 Bit Lolitas",
+      "has_synced": true,
+      "path": "select/13_Circles_Emma_Hewitt_with_16_Bit_Lolitas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Circles",
+      "artist": "Post Malone",
+      "has_synced": false,
+      "path": "select/pl_01_Circles_Post_Malone.txt"
+    }
+  ]
+}
